@@ -1,4 +1,6 @@
-# The Rust Way of Programming
+# 《The Rust Way of Programming》 Preface
+
+> Welcome friends to correct errors, including content cognition and English grammar word description errors and so on.
 
 Write a Rust programming book in English, dedicated to Rust-loving friends around the world.
 
@@ -6,13 +8,9 @@ Nowadays, many Rust programming learning materials are written for people who ha
 
 Since C can be geared towards beginner programmers, so can Rust.
 
-> Welcome friends to correct errors, including content cognition and English grammar word description errors and so on.
-
 ## Content Structure (Draft)
 
 - Part I: Concept
 - Part II: Practical
 - Part III: Safety && Security
 - Part IV: Appendices
-
-
