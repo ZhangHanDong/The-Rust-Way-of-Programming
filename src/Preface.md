@@ -23,7 +23,7 @@ Redefine the broad zero-basic programming population as.
 Defining the target readers facilitates the organization of the book.
 
 Since the book is mainly about the Rust language, we need to further define the zero programming base for this book according to the characteristics of the Rust language: 
-1. People who have some basic knowledge of the `C` language. The foundation of learning `Rust` is `C`. Because the `C` language has long replaced assembly language solidified as the interface between hardware and software. As to what level of `C` language is considered basic, we will provide in the appendix of the `C` language foundation.
+1. People who have some basic knowledge of the `C` language. The foundation of learning `Rust` is `C`. Because the `C` language has long replaced assembly language solidified as the interface between hardware and software. As to what level of `C` language is considered basic, we will provide the `C` language foundation in the appendix .
 2. People who have some knowledge of operating systems. After all, Rust is a system-level programming language, and knowledge of the operating system is the foundation for mastering Rust. In fact, in addition to operating system knowledge, it also includes computer composition principles, etc. These are the basics that Rust language learners need to have. But we can't ask too much for zero programming knowledge, at least experience with Linux, or an understanding of the difference between the Linux kernel and user state.
 
 Although this book is aimed at people with zero programming knowledge, you can't have no basic knowledge either.
